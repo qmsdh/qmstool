@@ -22,6 +22,8 @@ qmstool
 1. **系统级映射**：它会自动将工具箱下载至 `/usr/local/bin/` 并隐去 `.sh` 后缀，使其伪装成系统原生命令。
 2. **永久快捷键**：首次运行后，以后在任何路径、任何目录下，**只需在终端输入 `qmstool` 即可秒开工具箱**，再也不用背又长又臭的下载命令了！
 
+![脚本截图](https://raw.githubusercontent.com/qmsdh/qmstool/main/qmstool.sh)
+
 ---
 
 ## 🛠 功能全景：五大核心神器聚合
