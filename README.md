@@ -13,6 +13,10 @@
 ```bash
 sudo curl -sSL [https://raw.githubusercontent.com/qmsdh/qmstool/main/qmstool.sh](https://raw.githubusercontent.com/qmsdh/qmstool/main/qmstool.sh) -o /usr/local/bin/qmstool && sudo chmod +x /usr/local/bin/qmstool && qmstool
 ```
+再次运行可输入
+```bash
+qmstool
+```
 
 **💡 为什么这行命令最优雅？**
 1. **系统级映射**：它会自动将工具箱下载至 `/usr/local/bin/` 并隐去 `.sh` 后缀，使其伪装成系统原生命令。
