@@ -3,7 +3,7 @@
 # ==========================================
 # 基础配置与个人信息
 # ==========================================
-CURRENT_VERSION="1.0.0"
+CURRENT_VERSION="1.0.1"
 RAW_URL="https://raw.githubusercontent.com/qmsdh/qmstool/main"
 WEBSITE="https://blog.qmsdh.com/" 
 TG_GROUP="https://t.me/qmsdh_chat"
