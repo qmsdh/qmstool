@@ -13,7 +13,7 @@
 ```bash
 sudo curl -sSL [https://raw.githubusercontent.com/qmsdh/qmstool/main/qmstool.sh](https://raw.githubusercontent.com/qmsdh/qmstool/main/qmstool.sh) -o /usr/local/bin/qmstool && sudo chmod +x /usr/local/bin/qmstool && qmstool
 ```
-再次运行可输入
+快捷启动方式，再次运行可输入
 ```bash
 qmstool
 ```
