@@ -3,10 +3,15 @@
 > 还在满大街搜各种零散的一键脚本？本地存了一堆 `.sh` 导致系统目录乱七八糟？是时候让你的 Linux 服务器优雅起来了。由秋名山精心打造的 **QMS Linux 聚合工具箱**（`qmstool`）正式发布！
 >
 > 核心脚本全自研，第三方优秀资源动态集成，云端托管，纯内存解析运行，告别本地垃圾残留！
+>
+> GitHub仓库地址：
+> https://github.com/qmsdh/qmstool
 
 ---
 
 ## 🚀 核心看点：一键安装与快捷启动
+
+目前支持一键修改DNS、Swap、Alist网盘多开，还支持一键搭建节点和Speedtest测速！
 
 别废话，直接上车！在你的 Linux 终端（支持 Ubuntu/Debian/CentOS 等，需 `root` 权限）中直接复制并运行以下命令：
 
@@ -18,11 +23,11 @@ sudo curl -sSL [https://raw.githubusercontent.com/qmsdh/qmstool/main/qmstool.sh]
 qmstool
 ```
 
+![脚本截图](https://raw.githubusercontent.com/qmsdh/qmstool/main/jietu.jpeg)
+
 **💡 为什么这行命令最优雅？**
 1. **系统级映射**：它会自动将工具箱下载至 `/usr/local/bin/` 并隐去 `.sh` 后缀，使其伪装成系统原生命令。
 2. **永久快捷键**：首次运行后，以后在任何路径、任何目录下，**只需在终端输入 `qmstool` 即可秒开工具箱**，再也不用背又长又臭的下载命令了！
-
-![脚本截图](https://raw.githubusercontent.com/qmsdh/qmstool/main/jietu.jpeg)
 
 ---
 
